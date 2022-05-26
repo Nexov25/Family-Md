@@ -1,27 +1,29 @@
 ### Family-MD Reupload
+
 Re upload Dari https://github.com/Fokusdotid/Family-MD
 
 Yang Di Re upload ulang Dengan Tambahan node_modules
-
 
 langsung Bisa Di pakai Tanpa Harus Mendownload node_modules nya
 
 #### UNTUK TERMUX
 
 ```
-$ pkg update && upgrade -y
-$ apt update && upgrade -y
-$ pkg install ffmpeg
+$ pkg update && upgrade
+$ apt update && upgrade
 $ pkg install nodejs
+$ pkg install ffmpeg
+$ pkg install imagemagick
 $ pkg install git
-$ git clone https://github.com/hirohito-xyz/Family-Md
-$ cd Family-Md
+$ git clone https://github.com/hirohito-xyz/Family-Md-Nm
+$ cd Family-Md-Nm
 $ node main
 ```
+---------------------------
 
 WhatsApp Bot Multi Device
 
----------
+---------------------------
 
 ## Arguments `node . [--options] [<session name>]` 
 
@@ -99,6 +101,8 @@ conn.logger.level = 'trace'
 ```js
 conn.logger.level = 'debug'
 ```
+
+---------------------------
 
 ##### Special Thanks to
 [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
