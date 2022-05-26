@@ -15,8 +15,8 @@ $ pkg install nodejs
 $ pkg install ffmpeg
 $ pkg install imagemagick
 $ pkg install git
-$ git clone https://github.com/hirohito-xyz/Family-Md-Nm
-$ cd Family-Md-Nm
+$ git clone https://github.com/hirohito-xyz/Family-Md
+$ cd Family-Md
 $ node main
 ```
 ---------------------------
